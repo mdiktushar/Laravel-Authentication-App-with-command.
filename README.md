@@ -1,9 +1,9 @@
 
 For Laravel >=6
 
-composer require laravel/ui
-php artisan ui vue --auth
-php artisan migrate
+composer require laravel/ui <br>
+php artisan ui vue --auth <br>
+php artisan migrate <br>
 
 
 
