@@ -1,6 +1,5 @@
 
 For Laravel >=6
-##Commands
 composer require laravel/ui <br>
 php artisan ui vue --auth <br>
 or <br>
