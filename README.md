@@ -1,8 +1,11 @@
 
 For Laravel >=6
-
+##Commands
 composer require laravel/ui <br>
 php artisan ui vue --auth <br>
+or <br>
+php artisan ui bootstrap --auth <br>
+npm install && npm run dev <br>
 php artisan migrate <br>
 
 
